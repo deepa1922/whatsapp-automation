@@ -1,4 +1,4 @@
-CHROME_PROFILE_PATH: str = "user-data-dir=C:\\Users\\deepa\\AppData\\Local\\Google\\Chrome\\User Data\\Profile"
+CHROME_PROFILE_PATH: str = "user-data-dir=C:\\Users\\<username>\\AppData\\Local\\Google\\Chrome\\User Data\\Default"
 
  #config.py
 
